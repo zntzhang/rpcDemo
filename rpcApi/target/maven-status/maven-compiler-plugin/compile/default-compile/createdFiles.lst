@@ -1,0 +1,8 @@
+remote/IUserRemote.class
+protocol/coder/RpcEncoder.class
+protocol/RpcRequest.class
+protocol/Serialization.class
+protocol/JsonSerialization.class
+entity/User.class
+protocol/RpcResponse.class
+protocol/coder/RpcDecoder.class
